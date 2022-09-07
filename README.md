@@ -89,4 +89,4 @@ The following image shows the web application's appearance and functionality:
 
 The following video demonstrates the application's functionality:
 
-![James Li ReadMe Generator](./assets/07-readme-generator-demo-video.webm)
+![James Li ReadMe Generator](./assets/07-readme-generator-demo-gif.gif)
