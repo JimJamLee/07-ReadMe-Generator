@@ -81,7 +81,7 @@ You are required to submit the following for review:
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
 
-## Application Screenshot
+## Application Functionality
 
 The following image shows the web application's appearance and functionality:
 
@@ -90,3 +90,7 @@ The following image shows the web application's appearance and functionality:
 The following video demonstrates the application's functionality:
 
 ![James Li ReadMe Generator](./assets/07-readme-generator-demo-gif.gif)
+
+The following is a link to the generated sample README:
+
+![James Li ReadMe Generator](./output/README.md)
